@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/coba_deploy_react/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/coba_deploy_react/static/js/main.060967b7.chunk.js",
+    "main.js.map": "/coba_deploy_react/static/js/main.060967b7.chunk.js.map",
+    "runtime-main.js": "/coba_deploy_react/static/js/runtime-main.2122260a.js",
+    "runtime-main.js.map": "/coba_deploy_react/static/js/runtime-main.2122260a.js.map",
+    "static/js/2.982b0b9a.chunk.js": "/coba_deploy_react/static/js/2.982b0b9a.chunk.js",
+    "static/js/2.982b0b9a.chunk.js.map": "/coba_deploy_react/static/js/2.982b0b9a.chunk.js.map",
+    "static/js/3.7ebdfcf5.chunk.js": "/coba_deploy_react/static/js/3.7ebdfcf5.chunk.js",
+    "static/js/3.7ebdfcf5.chunk.js.map": "/coba_deploy_react/static/js/3.7ebdfcf5.chunk.js.map",
+    "index.html": "/coba_deploy_react/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/coba_deploy_react/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.982b0b9a.chunk.js.LICENSE.txt": "/coba_deploy_react/static/js/2.982b0b9a.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/coba_deploy_react/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2122260a.js",
+    "static/js/2.982b0b9a.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.060967b7.chunk.js"
+  ]
+}
